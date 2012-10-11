@@ -1,0 +1,1 @@
+The snip repository is a collection of text expander snippets.  They are vfx based, and usually specialized into the types of films I am breaking down.  They might be useful for you.
